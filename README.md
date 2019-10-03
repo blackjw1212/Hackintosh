@@ -12,3 +12,17 @@
 - Logitech G610 Orion Blue
 - LG 34UM58-P 34" 21:9 UltraWide™ WQHD AH-IPS monitor
 ## Installation
+
+The installation was pretty straight forward. If you go like me with only the integrated AMD GPU (RX 570), a Coffee Lake CPU, and this motherboard, just follow the [vanilla guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) and read the "Coffee Lake" page carefully.
+
+You can basically download the config file provided at the end of the vanilla guide, it works almost OOTB.
+
+## BIOS
+
+You can find my BIOS Settings with pictures [here](BIOS/README.md).
+
+## Benchmarks
+
+![Geekbench](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/geekbench.png?raw=true)
+
+Link: https://browser.geekbench.com/v5/cpu/308937
