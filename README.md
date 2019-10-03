@@ -10,5 +10,5 @@
 - Intel® SSD 760p M.2 256 GB
 - Logitech G502 HERO
 - Logitech G610 Orion Blue
-- LG 34UM58-P 34" 21:9 UltraWide™ WQHD AH-IPS
+- LG 34UM58-P 34" 21:9 UltraWide™ WQHD AH-IPS monitor
 ## Installation
