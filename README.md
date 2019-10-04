@@ -17,6 +17,8 @@ The installation was pretty straight forward. If you go like me with only the AM
 
 You can basically download the config file provided at the end of the vanilla guide, it works almost OOTB.
 
+![hidpi](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/hidpi.png?raw=true)
+
 ## BIOS
 
 You can find my BIOS Settings with pictures [here](BIOS/README.md).
