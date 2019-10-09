@@ -16,11 +16,11 @@
 
 You can find my BIOS Settings with pictures [here](BIOS/README.md).
 
-BIOS－CFG
-BIOS－CSM disabled
-BIOS－EHCI/XHCI Hand-off enable
-BIOS－Above 4G Decoding enabled
-BIOS－VT-d disabled
+- BIOS－CFG
+- BIOS－CSM disabled
+- BIOS－EHCI/XHCI Hand-off enable
+- BIOS－Above 4G Decoding enabled
+- BIOS－VT-d disabled
 
 ## Installation
 
