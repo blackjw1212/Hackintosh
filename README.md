@@ -18,7 +18,7 @@ You can find my BIOS Settings with pictures [here](BIOS/README.md).
 
 BIOS中 CFG
 BIOS中CSM disabled
-BIOS中EHCI/XHCI Hand-off enabled
+BIOS中EHCI/XHCI Hand-off enable
 BIOS中Above 4G Decoding enabled
 BIOS中VT-d disabled
 
