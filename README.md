@@ -12,6 +12,18 @@
 - Logitech G610 Orion Blue
 - LG 34UM58-P 34" 21:9 UltraWide™ WQHD AH-IPS monitor
 
+## Functions
+
+Sleep&Wake: OK
+Bluetooth: OK
+WIFI: 
+wired Internet: OK
+Audio卡:OK
+CPU Frequency: OK
+USB 3.1: OK
+Graphic card: OK, H264 & HEVC Supported/OK
+Hand Off: OK
+
 ## BIOS
 
 You can find my BIOS Settings with pictures [here](BIOS/README.md).
