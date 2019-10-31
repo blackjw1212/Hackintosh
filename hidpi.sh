@@ -68,8 +68,6 @@ downloadHost="https://raw.githubusercontent.com/blackjw1212/Hackintosh/master"
 # downloadHost="https://raw.githubusercontent.com/blackjw1212/Hackintosh/dev"
 # downloadHost="http://127.0.0.1:8080"
 
-fi
-
 if [[ "${systemVersion}" -ge "15" ]]; then
     sudo mount -uw / && killall Finder
 fi
