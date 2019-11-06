@@ -593,15 +593,15 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02908500CDLNV9AD</string>
+			<string></string>
 			<key>ROM</key>
-			<data>GXyO/Bhs</data>
+			<data>GHyO/Bh8</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac 19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Y909JJV3Q</string>
+			<string></string>
 			<key>SystemUUID</key>
 			<string></string>
 		</dict>
