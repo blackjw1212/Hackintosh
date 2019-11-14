@@ -1,3 +1,5 @@
+[![](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/blackjw1212) [![]
+
 # Hackintosh
 
 ![System spec](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/system%EF%BC%BFCatalina.png?raw=true)
