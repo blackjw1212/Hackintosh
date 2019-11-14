@@ -1,4 +1,4 @@
-[![](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/blackjw1212) [![]
+[![](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/blackjw1212) 
 
 # Hackintosh
 
