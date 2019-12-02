@@ -4,7 +4,7 @@
 
 ![System spec](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/system-Catalina-10.15.1.png?raw=true)
 
-- MacOS Mojave 10.14.6
+- MacOS Mojave 10.15.1
 - Intel i5-8400 (6 cores @ 2.80 Ghz, 3.80 Ghz Turbo Boost)
 - ASUS TUF Z370-PLUS GAMING
 - Kingston HyperX Predator RGB DDR4 3200MHz 8GBx2 OC @ 3600 Mhz
