@@ -2,7 +2,7 @@
 
 # Hackintosh
 
-![System spec](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/system%EF%BC%BFCatalina.png?raw=true)
+![System spec](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/system-Catalina-10.15.1.png?raw=true)
 
 - MacOS Mojave 10.14.6
 - Intel i5-8400 (6 cores @ 2.80 Ghz, 3.80 Ghz Turbo Boost)
