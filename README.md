@@ -2,10 +2,10 @@
 
 # Hackintosh
 
-![System spec](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/system-Catalina-10.15.1.png?raw=true)
+![System spec](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/system-Monterey-12.3.1.png?raw=true)
 
-- MacOS Mojave 10.15.5
-- Intel i5-8400 (6 cores @ 2.80 Ghz, 3.80 Ghz Turbo Boost)
+- MacOS Monterey 12.3.1（21E258）
+- Intel i9-9700 (8 cores @ 3 Ghz, 3.80 Ghz Turbo Boost)
 - ASUS TUF Z370-PLUS GAMING
 - Kingston HyperX Predator RGB DDR4 3200MHz 8GBx2 OC @ 3600 Mhz
 - CORSAIR TX550M 80 PLUS Gold
@@ -20,7 +20,7 @@
 
 - Bluetooth: OK
 
-- WIFI: 
+- WIFI: OK
 
 - wired Internet: OK
 
