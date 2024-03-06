@@ -8,7 +8,7 @@
 - Intel i7-9700 (8 cores @ 3 Ghz, 3.80 Ghz Turbo Boost)
 - ASUS TUF Z370-PLUS GAMING
 - Fighter AMD Radeon™ RX 6650 XT 8GB GDDR6
-- Kingston HyperX Predator RGB DDR4 3200MHz 8GBx2 OC @ 3766 Mhz
+- Kingston HyperX Predator RGB DDR4 3200MHz 16GBx2 OC @ 3766 Mhz
 - CORSAIR TX550M 80 PLUS Gold
 - 500G NV1 M.2 2280 NVMe SSD
 - Logitech G502 HERO
