@@ -57,3 +57,4 @@ You can basically download the config file provided at the end of the vanilla gu
 ![Geekbench](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/geekbench.png?raw=true)
 
 Link: https://browser.geekbench.com/v6/cpu/5200659
+Link: https://browser.geekbench.com/v6/compute/1868101
