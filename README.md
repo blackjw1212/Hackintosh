@@ -2,7 +2,7 @@
 
 # Hackintosh
 
-![System spec](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/system-Monterey-12.3.1.png?raw=true)
+![System spec](https://github.com/blackjw1212/Hackintosh/blob/master/Pictures/system-Monterey-12.3.7.png?raw=true)
 
 - MacOS Monterey 12.3.1（21E258）
 - Intel i9-9700 (8 cores @ 3 Ghz, 3.80 Ghz Turbo Boost)
