@@ -44,7 +44,7 @@
 
 ## BIOS settings
 
-Full screenshots are in [`BIOS/README.md`](BIOS/README.md). Key settings:
+Key settings:
 
 - CFG Lock → **Disabled**
 - CSM → **Disabled**
@@ -63,7 +63,13 @@ Follow the [OpenCore Vanilla Desktop Guide](https://dortania.github.io/OpenCore-
 3. Apply the BIOS settings above.
 4. Boot from the USB installer and install macOS normally.
 
-> ⚠️ **Generate your own SMBIOS serials** before first boot. Never share MLB / ROM / Serial values publicly.
+> ⚠️ **Generate your own SMBIOS serials** before first boot. Never share MLB / ROM / Serial values publicly. The checked-in `OC/Config.plist` intentionally leaves these values blank.
+
+---
+
+## Disclaimer
+
+This repository is a personal compatibility reference for one hardware build. It is not a universal EFI, and it does not include Apple software or any private serial identifiers. Review the OpenCore documentation, generate your own SMBIOS values, and back up your current EFI before using any file from this repository.
 
 ---
 
